@@ -1,0 +1,14 @@
+{
+  "window.zoomLevel": 1,
+  "prettier.configPath": "./.prettierrc.js",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSave": true,
+  "editor.inlayHints.enabled": "on",
+  "editor.inlayHints.padding": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "workbench.colorCustomizations": {
+    "editorInlayHint.background": "#414141",
+    "editorInlayHint.foreground": "#b9b9b9"
+  }
+}
